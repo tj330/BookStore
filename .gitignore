@@ -32,3 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
+start.sh
+**/infra.yml
+**/apps.yml
